@@ -1,0 +1,18 @@
+
+#main{
+   
+    height: 100px;
+    width: 200px;
+    left: 300px;
+    top: 50px;
+    position: absolute;
+}
+#btn{
+    width: 45px;
+    margin:5px;
+    height: 25px;
+
+}
+#in{
+    width: 159px;
+}
